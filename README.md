@@ -1,4 +1,4 @@
-<p align="center"><img src="logo.png" width="150px" height="150px" alt="insta logo"></p>
+<p align="center"><img src="logo.png" width="250px" height="250px" alt="insta logo"></p>
 
 <h1 align="center">TELEGRAM REPORT BOT</h1>
 <h2 align="center">Join our telegram here > <a href="https://tinyurl.com/5n7m38uw"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a></h2>
